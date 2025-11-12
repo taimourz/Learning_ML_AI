@@ -1,3 +1,7 @@
+## Lecture Video
+
+[Stanford CS229: Machine Learning - Linear Regression and Gradient Descent | Lecture 2 (Autumn 2018)](https://www.youtube.com/watch?v=4b4MUYve_U8)
+
 ## Reference Sheet
 
 | Symbol | Name | Meaning | Example |
@@ -518,7 +522,7 @@ For someone with 30 months experience:
 
 * * *
 
-## Further Learning Resources
+## Further Learning
 
 1.  **Multiple Linear Regression** - More than one feature (experience + education + age)
 2.  **Polynomial Regression** - For non-linear relationships
